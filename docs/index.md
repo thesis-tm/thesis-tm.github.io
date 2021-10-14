@@ -6,7 +6,7 @@ output:
   html_document:
     df_print: paged
 link-citations: yes
-description: ug1-practical-materials
+description: Thesis handbook for master programmes AMATM, AMSTV, AMFMM
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
