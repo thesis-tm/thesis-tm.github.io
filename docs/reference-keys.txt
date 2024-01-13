@@ -40,3 +40,5 @@ self-declaration-effort-agreement
 thesis-template
 dgpr
 section
+m.sc.-degree-project-in-textile-managementexamensarbete-i-textilt-management-ae2et1-one-year-master-programme
+thesis-for-two-year-m.sc.-degree-in-textile-managementsjälvständigt-arbete-för-masterexamen-inom-textilt-management-a2mt1d-two-year-master-programme
